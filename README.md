@@ -1,5 +1,5 @@
 # 🩺 ArogyaVision
-<img width="796" height="831" alt="WhatsApp Image 2026-10-15 at 12 00 13 AM" src="https://github.com/user-attachments/assets/54fe6cd2-c698-4a36-aa7d-ec66709d4519" />
+<img width="700" height="650" alt="WhatsApp Image 2026-10-15 at 12 00 13 AM" src="https://github.com/user-attachments/assets/54fe6cd2-c698-4a36-aa7d-ec66709d4519" />
 
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
